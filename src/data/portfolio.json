@@ -1,0 +1,1960 @@
+{
+  "projects": [
+    {
+      "id": "Pr4NlBi9Tvmpj0sqNaWAcg",
+      "slug": "the-lookback",
+      "featured": true,
+      "title": "Retro Vision",
+      "description": "Digital capsule for Better Off® studio to document what inspired them and what they created over the last months/years.\n",
+      "awards": 3,
+      "link": "https://tlb.betteroff.studio/",
+      "outlined": true,
+      "tags": [
+        {
+          "id": "fNanCGRlRzqFBXQm-6n-qA",
+          "title": "BetterOff® Studio",
+          "url": "https://betteroff.studio/"
+        },
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_12.jpg",
+      "thumb": "/images/dummy_12.jpg",
+      "card": "/images/dummy_12.jpg",
+      "width": 1250,
+      "height": 720,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_12.jpg",
+          "thumb": "/images/dummy_12.jpg",
+          "card": "/images/dummy_12.jpg",
+          "width": 1250,
+          "height": 720,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1620,
+          "height": 1080,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1500,
+          "height": 1897,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 1500,
+          "height": 1000,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "CKkeAKqbSU69ZpsoEJRpGg",
+      "slug": "Action Labs",
+      "featured": false,
+      "title": "Action Labs",
+      "description": "New website for Creative agency Action Labs. They're refined expertise lies in creating and harnessing desire, from lipsticks to buildings, from aspiring start-ups to established brands.",
+      "awards": null,
+      "link": "https://dothingsnyc.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Iets1lbHSI-zhdylgCVy0A",
+          "title": "Action Labs",
+          "url": "https://dothingsnyc.com/"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_11.jpg",
+      "thumb": "/images/dummy_11.jpg",
+      "card": "/images/dummy_11.jpg",
+      "width": 1500,
+      "height": 1501,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 1500,
+          "height": 1501,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1582,
+          "height": 1080,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_14.jpg",
+          "thumb": "/images/dummy_14.jpg",
+          "card": "/images/dummy_14.jpg",
+          "width": 1500,
+          "height": 2106,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_6.jpg",
+          "thumb": "/images/dummy_6.jpg",
+          "card": "/images/dummy_6.jpg",
+          "width": 1500,
+          "height": 1001,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 1582,
+          "height": 1080,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        }
+      ]
+    },
+    {
+      "id": "Z1cK1mAeQKeqopvW0xs3GA",
+      "slug": "53-west-53",
+      "featured": false,
+      "title": "Skyline Tower",
+      "description": "New website for the 53West53 residential tower standing tall above MoMA.",
+      "awards": null,
+      "link": "https://53w53.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Iets1lbHSI-zhdylgCVy0A",
+          "title": "Action Labs",
+          "url": "https://dothingsnyc.com/"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_2.jpg",
+      "thumb": "/images/dummy_2.jpg",
+      "card": "/images/dummy_2.jpg",
+      "width": 1500,
+      "height": 947,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 1500,
+          "height": 947,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1500,
+          "height": 1205,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1500,
+          "height": 1258,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 1500,
+          "height": 1030,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 1500,
+          "height": 1250,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "ctRdk1LMQt-vrRF9ZY2hxg",
+      "slug": "ross-masonr",
+      "featured": false,
+      "title": "Mason Design®",
+      "description": "New portfolio website for Mason Design, designer from the UK doing 3D, Motion design and Art Direction.",
+      "awards": null,
+      "link": "https://iamrossmason.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_13.jpg",
+      "thumb": "/images/dummy_13.jpg",
+      "card": "/images/dummy_13.jpg",
+      "width": 1586,
+      "height": 1080,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1586,
+          "height": 1080,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1500,
+          "height": 1653,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 1500,
+          "height": 1001,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 1500,
+          "height": 1001,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1500,
+          "height": 1001,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "JdoAJCbwT6-_NSLlRYraGA",
+      "slug": "vuckotm",
+      "featured": false,
+      "title": "Vortex™",
+      "description": "New website for Vortex, A motion partner building brand-led identities, systems, and applications.",
+      "awards": null,
+      "link": "https://vucko.co/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "O1JxLxGPSuq5Ky6r3wEIQw",
+          "title": "Vortex™",
+          "url": null
+        },
+        {
+          "id": "UQd7IA2NS2O_7ZXFOgBANw",
+          "title": "2023",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_6.jpg",
+      "thumb": "/images/dummy_6.jpg",
+      "card": "/images/dummy_6.jpg",
+      "width": 1586,
+      "height": 1080,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_6.jpg",
+          "thumb": "/images/dummy_6.jpg",
+          "card": "/images/dummy_6.jpg",
+          "width": 1586,
+          "height": 1080,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_8.jpg",
+          "thumb": "/images/dummy_8.jpg",
+          "card": "/images/dummy_8.jpg",
+          "width": 1500,
+          "height": 1273,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_0.jpg",
+          "thumb": "/images/dummy_0.jpg",
+          "card": "/images/dummy_0.jpg",
+          "width": 1500,
+          "height": 1030,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_12.jpg",
+          "thumb": "/images/dummy_12.jpg",
+          "card": "/images/dummy_12.jpg",
+          "width": 1500,
+          "height": 1182,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1500,
+          "height": 932,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "ZDSsdOoBRt-kU6yrpdRmbg",
+      "slug": "Horizon Arch",
+      "featured": false,
+      "title": "Horizon Arch",
+      "description": "New portfolio website for Horizon Arch, an international architecture and design firm.",
+      "awards": null,
+      "link": "https://ingrao.promptedsite.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Iets1lbHSI-zhdylgCVy0A",
+          "title": "Action Labs",
+          "url": "https://dothingsnyc.com/"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_3.jpg",
+      "thumb": "/images/dummy_3.jpg",
+      "card": "/images/dummy_3.jpg",
+      "width": 2000,
+      "height": 1429,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 2000,
+          "height": 1429,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "a1h8TcLfSu2f91NE21krKw",
+      "slug": "111-west-57th-street",
+      "featured": false,
+      "title": "Manhattan Highrise",
+      "description": "Manhattan Highrise gracefully rises above the original landmarked Steinway Hall building creating a new landmark on the iconic Manhattan skyline.",
+      "awards": null,
+      "link": "https://111w57.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "CEKcZKR8TV2IaoNY3E_QAg",
+          "title": "Frontier Design",
+          "url": "https://outpost.design/"
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_3.jpg",
+      "thumb": "/images/dummy_3.jpg",
+      "card": "/images/dummy_3.jpg",
+      "width": 1500,
+      "height": 1000,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 1500,
+          "height": 1000,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_0.jpg",
+          "thumb": "/images/dummy_0.jpg",
+          "card": "/images/dummy_0.jpg",
+          "width": 1500,
+          "height": 1169,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_0.jpg",
+          "thumb": "/images/dummy_0.jpg",
+          "card": "/images/dummy_0.jpg",
+          "width": 1500,
+          "height": 1857,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 1500,
+          "height": 1238,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1500,
+          "height": 950,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "Ul8bEmakTG-_CXnYZ9cwAQ",
+      "slug": "better-offr",
+      "featured": false,
+      "title": "Better Off®",
+      "description": "New studio website for Better Off®, a studio providing premium quality creative at lean rates for growing business. Packaged as subscriptions or bundled projects.",
+      "awards": null,
+      "link": "https://betteroff.studio/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "fNanCGRlRzqFBXQm-6n-qA",
+          "title": "BetterOff® Studio",
+          "url": "https://betteroff.studio/"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_2.jpg",
+      "thumb": "/images/dummy_2.jpg",
+      "card": "/images/dummy_2.jpg",
+      "width": 1200,
+      "height": 867,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 1200,
+          "height": 867,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_1.jpg",
+          "thumb": "/images/dummy_1.jpg",
+          "card": "/images/dummy_1.jpg",
+          "width": 1500,
+          "height": 1000,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 1586,
+          "height": 1080,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 1500,
+          "height": 1045,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1500,
+          "height": 1606,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "WUhc1yJcT0Gmh2H71lU9QQ",
+      "slug": "Velocity Tech",
+      "featured": false,
+      "title": "Velocity Tech",
+      "description": "Velocity Tech’s rebrand reimagines outsourcing by combining cutting-edge technology with genuine human connection. A bold new identity, vibrant visual system, and highly interactive website balance technical expertise with the warmth and personality of its all-women-led team.",
+      "awards": null,
+      "link": "https://techspeed.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "GHj3guDNQzubrpSIu1Pmag",
+          "title": "Griffin Agency",
+          "url": "https://griflan.com"
+        }
+      ],
+      "src": "/images/dummy_3.jpg",
+      "thumb": "/images/dummy_3.jpg",
+      "card": "/images/dummy_3.jpg",
+      "width": 3360,
+      "height": 2200,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 3360,
+          "height": 2202,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_6.jpg",
+          "thumb": "/images/dummy_6.jpg",
+          "card": "/images/dummy_6.jpg",
+          "width": 1600,
+          "height": 1200,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 2048,
+          "height": 1210,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        }
+      ]
+    },
+    {
+      "id": "JcrnbRQJQdOYHofW6w3fiw",
+      "slug": "nathan-riley",
+      "featured": true,
+      "title": "Aero Dynamic",
+      "description": "Nathan is a UK-based digital creative specializing in art direction, surrealist 3D visuals, interactive experiences, and motion design.",
+      "awards": null,
+      "link": "https://www.nrly.co/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "UQd7IA2NS2O_7ZXFOgBANw",
+          "title": "2023",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_1.jpg",
+      "thumb": "/images/dummy_1.jpg",
+      "card": "/images/dummy_1.jpg",
+      "width": 2048,
+      "height": 1172,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_1.jpg",
+          "thumb": "/images/dummy_1.jpg",
+          "card": "/images/dummy_1.jpg",
+          "width": 2048,
+          "height": 1172,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1787,
+          "height": 900,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_0.jpg",
+          "thumb": "/images/dummy_0.jpg",
+          "card": "/images/dummy_0.jpg",
+          "width": 1798,
+          "height": 905,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_14.jpg",
+          "thumb": "/images/dummy_14.jpg",
+          "card": "/images/dummy_14.jpg",
+          "width": 1792,
+          "height": 904,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "ITqEbGCzREu55NLijTbsDg",
+      "slug": "dogelon-mars",
+      "featured": true,
+      "title": "Crypto Coin",
+      "description": "Follow the story of Crypto Coin as he explores the greatest mysteries of the universe and seeks to return to the planet he once called home with the help of the friends he’s made during his intergalactic travels.",
+      "awards": 3,
+      "link": "https://dogelonmars.com",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "GHj3guDNQzubrpSIu1Pmag",
+          "title": "Griffin Agency",
+          "url": "https://griflan.com"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_4.jpg",
+      "thumb": "/images/dummy_4.jpg",
+      "card": "/images/dummy_4.jpg",
+      "width": 3360,
+      "height": 2200,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_6.jpg",
+          "thumb": "/images/dummy_6.jpg",
+          "card": "/images/dummy_6.jpg",
+          "width": 3420,
+          "height": 2201,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "dyWJAjj0TmCUwYZtj9g8Lw",
+      "slug": "Terra Real Estate",
+      "featured": true,
+      "title": "Terra Real Estate",
+      "description": "Partnered with Frontier Design and Discovery Land Company to create an immersive, storytelling brand experience that showcasing DLCs international portfolio and capabilities while acting as a seamless transition across their 23 properties. ",
+      "awards": null,
+      "link": "https://discoverylandco.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "CEKcZKR8TV2IaoNY3E_QAg",
+          "title": "Frontier Design",
+          "url": "https://outpost.design/"
+        },
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_11.jpg",
+      "thumb": "/images/dummy_11.jpg",
+      "card": "/images/dummy_11.jpg",
+      "width": 1372,
+      "height": 1029,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 1372,
+          "height": 1029,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 1280,
+          "height": 642,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1280,
+          "height": 642,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "AMberUEYShGG6hrohzFjNA",
+      "slug": "Griffin Agency",
+      "featured": true,
+      "title": "Griffin Agency",
+      "description": "Griffin Agency is a creative studio at the intersection of design, strategy, and compelling storytelling, shaping brands that move culture and leave a lasting mark.",
+      "awards": 3,
+      "link": "https://griflan.com",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_10.jpg",
+      "thumb": "/images/dummy_10.jpg",
+      "card": "/images/dummy_10.jpg",
+      "width": 1162,
+      "height": 720,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1162,
+          "height": 720,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1022,
+          "height": 720,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_12.jpg",
+          "thumb": "/images/dummy_12.jpg",
+          "card": "/images/dummy_12.jpg",
+          "width": 1280,
+          "height": 642,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "aEqXylDcT4aQfGv2MdxMpg",
+      "slug": "book-of-happiness",
+      "featured": true,
+      "title": "Mindful App",
+      "description": "Helping leaders keep themselves and their people happy and mentally healthy.",
+      "awards": 4,
+      "link": "https://www.findworkhappiness.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "ANVQSAt5QwqYQoAgGWjF3w",
+          "title": "Lubofsky Media",
+          "url": "https://www.davidlubofsky.com/"
+        }
+      ],
+      "src": "/images/dummy_2.jpg",
+      "thumb": "/images/dummy_2.jpg",
+      "card": "/images/dummy_2.jpg",
+      "width": 2048,
+      "height": 1114,
+      "alt": "",
+      "video": "/media/vid_0.mp4",
+      "images": [
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 2048,
+          "height": 1114,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1565,
+          "height": 908,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 1568,
+          "height": 906,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_9.jpg",
+          "thumb": "/images/dummy_9.jpg",
+          "card": "/images/dummy_9.jpg",
+          "width": 1571,
+          "height": 906,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "QyCGuM0RQyq9H5ltVKURxg",
+      "slug": "chris-wilcock",
+      "featured": false,
+      "title": "Wilcock Studio",
+      "description": "",
+      "awards": null,
+      "link": "https://www.chriswilcock.co/",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_13.jpg",
+      "thumb": "/images/dummy_13.jpg",
+      "card": "/images/dummy_13.jpg",
+      "width": 1200,
+      "height": 1522,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1200,
+          "height": 1522,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "atePe2y4TFCMFbbqHIT0Zw",
+      "slug": "david-lubofsky",
+      "featured": false,
+      "title": "Lubofsky Media",
+      "description": "",
+      "awards": null,
+      "link": "https://www.davidlubofsky.com/",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_7.jpg",
+      "thumb": "/images/dummy_7.jpg",
+      "card": "/images/dummy_7.jpg",
+      "width": 3594,
+      "height": 1766,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 3594,
+          "height": 1766,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "acOFSemDSD-wZcJ-XFwgOA",
+      "slug": "casa-di-solare",
+      "featured": true,
+      "title": "Lumina Font",
+      "description": "Solare extends Nikolas Type‘s Font Catalogue with a timeless, hyper-useable quintessential variable font, suitable for a wide field of applications.",
+      "awards": 4,
+      "link": "https://casadisolare.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "A7sxXQnDQ6G-rZAnV31YfA",
+          "title": "Unseen",
+          "url": "https://unseen.co/"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_10.jpg",
+      "thumb": "/images/dummy_10.jpg",
+      "card": "/images/dummy_10.jpg",
+      "width": 2048,
+      "height": 1204,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 2048,
+          "height": 1204,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1280,
+          "height": 596,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1280,
+          "height": 644,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "UhD9sB0zSoCP_uEmcEz6oA",
+      "slug": "gil-huybrecht",
+      "featured": true,
+      "title": "Creative Studio",
+      "description": "Creative Studio is a Belgian digital designer and art director, based around Antwerp. He specializes in typography-heavy web design, art direction, interaction design, and branding.",
+      "awards": 1,
+      "link": "https://gilhuybrecht.com",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_10.jpg",
+      "thumb": "/images/dummy_10.jpg",
+      "card": "/images/dummy_10.jpg",
+      "width": 1196,
+      "height": 720,
+      "alt": "",
+      "video": "/media/vid_0.mp4",
+      "images": [
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1196,
+          "height": 720,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1280,
+          "height": 644,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_14.jpg",
+          "thumb": "/images/dummy_14.jpg",
+          "card": "/images/dummy_14.jpg",
+          "width": 1280,
+          "height": 604,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        }
+      ]
+    },
+    {
+      "id": "Njfxb9wZS4KkNn60vTUUUQ",
+      "slug": "Five Paths",
+      "featured": false,
+      "title": "Five Paths",
+      "description": "",
+      "awards": null,
+      "link": "https://fivepathways.com/",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_9.jpg",
+      "thumb": "/images/dummy_9.jpg",
+      "card": "/images/dummy_9.jpg",
+      "width": 1524,
+      "height": 898,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_9.jpg",
+          "thumb": "/images/dummy_9.jpg",
+          "card": "/images/dummy_9.jpg",
+          "width": 1524,
+          "height": 898,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "FvcifpbxRJOIAh9wkA-FPw",
+      "slug": "energy-park",
+      "featured": false,
+      "title": "Eco Energy",
+      "description": "",
+      "awards": null,
+      "link": "https://energy-park.Frontier Design.design/",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_6.jpg",
+      "thumb": "/images/dummy_6.jpg",
+      "card": "/images/dummy_6.jpg",
+      "width": 1799,
+      "height": 906,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_6.jpg",
+          "thumb": "/images/dummy_6.jpg",
+          "card": "/images/dummy_6.jpg",
+          "width": 1799,
+          "height": 906,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "d05dfcikQICxaCOVrMVLsQ",
+      "slug": "Frontier Design",
+      "featured": false,
+      "title": "Frontier Design",
+      "description": "",
+      "awards": null,
+      "link": "https://outpost.design/",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_13.jpg",
+      "thumb": "/images/dummy_13.jpg",
+      "card": "/images/dummy_13.jpg",
+      "width": 1680,
+      "height": 1531,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1680,
+          "height": 1531,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "TA1spK0oTNSMkEAzWDqFeQ",
+      "slug": "Feline Platform",
+      "featured": false,
+      "title": "Feline Platform",
+      "description": "",
+      "awards": null,
+      "link": "https://mew.xyz/",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_5.jpg",
+      "thumb": "/images/dummy_5.jpg",
+      "card": "/images/dummy_5.jpg",
+      "width": 3376,
+      "height": 2200,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 3376,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "f1tKe99jSPaudR8e7v_4_Q",
+      "slug": "Prime Resort",
+      "featured": false,
+      "title": "Prime Resort",
+      "description": "",
+      "awards": null,
+      "link": "https://ownprimland.com",
+      "outlined": false,
+      "tags": [],
+      "src": "/images/dummy_9.jpg",
+      "thumb": "/images/dummy_9.jpg",
+      "card": "/images/dummy_9.jpg",
+      "width": 1952,
+      "height": 2440,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_9.jpg",
+          "thumb": "/images/dummy_9.jpg",
+          "card": "/images/dummy_9.jpg",
+          "width": 1952,
+          "height": 2440,
+          "alt": "",
+          "video": null
+        }
+      ]
+    }
+  ],
+  "site": {
+    "favicon": [
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "16x16",
+          "type": "image/png",
+          "rel": "icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "32x32",
+          "type": "image/png",
+          "rel": "icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "96x96",
+          "type": "image/png",
+          "rel": "icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "192x192",
+          "type": "image/png",
+          "rel": "icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "57x57",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "60x60",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "72x72",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "76x76",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "114x114",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "120x120",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "144x144",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "152x152",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "link",
+        "attributes": {
+          "sizes": "180x180",
+          "rel": "apple-touch-icon",
+          "href": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "name": "msapplication-square70x70logo",
+          "content": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "name": "msapplication-square150x150logo",
+          "content": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "name": "msapplication-square310x310logo",
+          "content": "/images/dummy_9.jpg"
+        },
+        "content": null
+      },
+      {
+        "tag": "meta",
+        "attributes": {
+          "name": "msapplication-square310x150logo",
+          "content": "/images/dummy_9.jpg"
+        },
+        "content": null
+      }
+    ],
+    "seo": {
+      "siteName": "Promptedsite",
+      "titleSuffix": "",
+      "twitterAccount": null,
+      "facebookPageUrl": "",
+      "fallbackSeo": {
+        "title": "Promptedsite",
+        "description": "Global design engineer building visually rich, motion-driven websites. Two-time Top Agency Independent of the Year (2022 & 2024).",
+        "twitterCard": "summary_large_image",
+        "image": {
+          "url": "/images/dummy_1.jpg",
+          "alt": null
+        }
+      }
+    },
+    "noIndex": false
+  },
+  "featured": [
+    {
+      "id": "JcrnbRQJQdOYHofW6w3fiw",
+      "slug": "nathan-riley",
+      "featured": 0,
+      "title": "Aero Dynamic",
+      "description": "Nathan is a UK-based digital creative specializing in art direction, surrealist 3D visuals, interactive experiences, and motion design.",
+      "awards": null,
+      "link": "https://www.nrly.co/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "UQd7IA2NS2O_7ZXFOgBANw",
+          "title": "2023",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_1.jpg",
+      "thumb": "/images/dummy_1.jpg",
+      "card": "/images/dummy_1.jpg",
+      "width": 2048,
+      "height": 1172,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_1.jpg",
+          "thumb": "/images/dummy_1.jpg",
+          "card": "/images/dummy_1.jpg",
+          "width": 2048,
+          "height": 1172,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1787,
+          "height": 900,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_0.jpg",
+          "thumb": "/images/dummy_0.jpg",
+          "card": "/images/dummy_0.jpg",
+          "width": 1798,
+          "height": 905,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_14.jpg",
+          "thumb": "/images/dummy_14.jpg",
+          "card": "/images/dummy_14.jpg",
+          "width": 1792,
+          "height": 904,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "acOFSemDSD-wZcJ-XFwgOA",
+      "slug": "casa-di-solare",
+      "featured": 1,
+      "title": "Lumina Font",
+      "description": "Solare extends Nikolas Type‘s Font Catalogue with a timeless, hyper-useable quintessential variable font, suitable for a wide field of applications.",
+      "awards": 4,
+      "link": "https://casadisolare.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "A7sxXQnDQ6G-rZAnV31YfA",
+          "title": "Unseen",
+          "url": "https://unseen.co/"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_10.jpg",
+      "thumb": "/images/dummy_10.jpg",
+      "card": "/images/dummy_10.jpg",
+      "width": 2048,
+      "height": 1204,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 2048,
+          "height": 1204,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1280,
+          "height": 596,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_7.jpg",
+          "thumb": "/images/dummy_7.jpg",
+          "card": "/images/dummy_7.jpg",
+          "width": 1280,
+          "height": 644,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "Pr4NlBi9Tvmpj0sqNaWAcg",
+      "slug": "the-lookback",
+      "featured": 2,
+      "title": "Retro Vision",
+      "description": "Digital capsule for Better Off® studio to document what inspired them and what they created over the last months/years.\n",
+      "awards": 3,
+      "link": "https://tlb.betteroff.studio/",
+      "outlined": true,
+      "tags": [
+        {
+          "id": "fNanCGRlRzqFBXQm-6n-qA",
+          "title": "BetterOff® Studio",
+          "url": "https://betteroff.studio/"
+        },
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_12.jpg",
+      "thumb": "/images/dummy_12.jpg",
+      "card": "/images/dummy_12.jpg",
+      "width": 1250,
+      "height": 720,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_12.jpg",
+          "thumb": "/images/dummy_12.jpg",
+          "card": "/images/dummy_12.jpg",
+          "width": 1250,
+          "height": 720,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_13.jpg",
+          "thumb": "/images/dummy_13.jpg",
+          "card": "/images/dummy_13.jpg",
+          "width": 1620,
+          "height": 1080,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1500,
+          "height": 1897,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 1500,
+          "height": 1000,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "aEqXylDcT4aQfGv2MdxMpg",
+      "slug": "book-of-happiness",
+      "featured": 3,
+      "title": "Mindful App",
+      "description": "Helping leaders keep themselves and their people happy and mentally healthy.",
+      "awards": 4,
+      "link": "https://www.findworkhappiness.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        },
+        {
+          "id": "ANVQSAt5QwqYQoAgGWjF3w",
+          "title": "Lubofsky Media",
+          "url": "https://www.davidlubofsky.com/"
+        }
+      ],
+      "src": "/images/dummy_2.jpg",
+      "thumb": "/images/dummy_2.jpg",
+      "card": "/images/dummy_2.jpg",
+      "width": 2048,
+      "height": 1114,
+      "alt": "",
+      "video": "/media/vid_0.mp4",
+      "images": [
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 2048,
+          "height": 1114,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1565,
+          "height": 908,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 1568,
+          "height": 906,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_9.jpg",
+          "thumb": "/images/dummy_9.jpg",
+          "card": "/images/dummy_9.jpg",
+          "width": 1571,
+          "height": 906,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "ITqEbGCzREu55NLijTbsDg",
+      "slug": "dogelon-mars",
+      "featured": 4,
+      "title": "Crypto Coin",
+      "description": "Follow the story of Crypto Coin as he explores the greatest mysteries of the universe and seeks to return to the planet he once called home with the help of the friends he’s made during his intergalactic travels.",
+      "awards": 3,
+      "link": "https://dogelonmars.com",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "GHj3guDNQzubrpSIu1Pmag",
+          "title": "Griffin Agency",
+          "url": "https://griflan.com"
+        },
+        {
+          "id": "Lm_8BcSwQ1mzoPZltLna_Q",
+          "title": "2024",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_4.jpg",
+      "thumb": "/images/dummy_4.jpg",
+      "card": "/images/dummy_4.jpg",
+      "width": 3360,
+      "height": 2200,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_4.jpg",
+          "thumb": "/images/dummy_4.jpg",
+          "card": "/images/dummy_4.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_6.jpg",
+          "thumb": "/images/dummy_6.jpg",
+          "card": "/images/dummy_6.jpg",
+          "width": 3420,
+          "height": 2201,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_3.jpg",
+          "thumb": "/images/dummy_3.jpg",
+          "card": "/images/dummy_3.jpg",
+          "width": 3360,
+          "height": 2200,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "UhD9sB0zSoCP_uEmcEz6oA",
+      "slug": "gil-huybrecht",
+      "featured": 5,
+      "title": "Creative Studio",
+      "description": "Creative Studio is a Belgian digital designer and art director, based around Antwerp. He specializes in typography-heavy web design, art direction, interaction design, and branding.",
+      "awards": 1,
+      "link": "https://gilhuybrecht.com",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        },
+        {
+          "id": "K-uPqB5AS-esUquQlS3G5A",
+          "title": "Creative Studio",
+          "url": "https://gilhuybrecht.com"
+        }
+      ],
+      "src": "/images/dummy_10.jpg",
+      "thumb": "/images/dummy_10.jpg",
+      "card": "/images/dummy_10.jpg",
+      "width": 1196,
+      "height": 720,
+      "alt": "",
+      "video": "/media/vid_0.mp4",
+      "images": [
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1196,
+          "height": 720,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1280,
+          "height": 644,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_14.jpg",
+          "thumb": "/images/dummy_14.jpg",
+          "card": "/images/dummy_14.jpg",
+          "width": 1280,
+          "height": 604,
+          "alt": "",
+          "video": "/media/vid_0.mp4"
+        }
+      ]
+    },
+    {
+      "id": "dyWJAjj0TmCUwYZtj9g8Lw",
+      "slug": "Terra Real Estate",
+      "featured": 6,
+      "title": "Terra Real Estate",
+      "description": "Partnered with Frontier Design and Discovery Land Company to create an immersive, storytelling brand experience that showcasing DLCs international portfolio and capabilities while acting as a seamless transition across their 23 properties. ",
+      "awards": null,
+      "link": "https://discoverylandco.com/",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "CEKcZKR8TV2IaoNY3E_QAg",
+          "title": "Frontier Design",
+          "url": "https://outpost.design/"
+        },
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_11.jpg",
+      "thumb": "/images/dummy_11.jpg",
+      "card": "/images/dummy_11.jpg",
+      "width": 1372,
+      "height": 1029,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_11.jpg",
+          "thumb": "/images/dummy_11.jpg",
+          "card": "/images/dummy_11.jpg",
+          "width": 1372,
+          "height": 1029,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_2.jpg",
+          "thumb": "/images/dummy_2.jpg",
+          "card": "/images/dummy_2.jpg",
+          "width": 1280,
+          "height": 642,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_5.jpg",
+          "thumb": "/images/dummy_5.jpg",
+          "card": "/images/dummy_5.jpg",
+          "width": 1280,
+          "height": 642,
+          "alt": "",
+          "video": null
+        }
+      ]
+    },
+    {
+      "id": "AMberUEYShGG6hrohzFjNA",
+      "slug": "Griffin Agency",
+      "featured": 7,
+      "title": "Griffin Agency",
+      "description": "Griffin Agency is a creative studio at the intersection of design, strategy, and compelling storytelling, shaping brands that move culture and leave a lasting mark.",
+      "awards": 3,
+      "link": "https://griflan.com",
+      "outlined": false,
+      "tags": [
+        {
+          "id": "O1uSuR6rRC-2KtJLNqhI3g",
+          "title": "2026",
+          "url": null
+        }
+      ],
+      "src": "/images/dummy_10.jpg",
+      "thumb": "/images/dummy_10.jpg",
+      "card": "/images/dummy_10.jpg",
+      "width": 1162,
+      "height": 720,
+      "alt": "",
+      "video": null,
+      "images": [
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1162,
+          "height": 720,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_10.jpg",
+          "thumb": "/images/dummy_10.jpg",
+          "card": "/images/dummy_10.jpg",
+          "width": 1022,
+          "height": 720,
+          "alt": "",
+          "video": null
+        },
+        {
+          "src": "/images/dummy_12.jpg",
+          "thumb": "/images/dummy_12.jpg",
+          "card": "/images/dummy_12.jpg",
+          "width": 1280,
+          "height": 642,
+          "alt": "",
+          "video": null
+        }
+      ]
+    }
+  ]
+}

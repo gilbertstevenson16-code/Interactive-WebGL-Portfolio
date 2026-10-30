@@ -1,0 +1,153 @@
+@import "./reference.css";
+:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 5px;
+}
+.portfolio-nav {
+  position: fixed;
+  inset: 40px 5.3333%;
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  pointer-events: none;
+}
+.portfolio-nav-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.portfolio-nav a,
+.portfolio-nav button {
+  pointer-events: auto;
+  text-transform: uppercase;
+}
+.portfolio-nav nav {
+  display: flex;
+  gap: 5px;
+}
+.portfolio-nav nav a {
+  opacity: 0.5;
+}
+.portfolio-nav nav a[aria-current="page"] {
+  opacity: 1;
+}
+.project-link {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: inherit;
+}
+.overlay {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 60rem;
+  transform: translate(-50%, -50%);
+  z-index: 40;
+  display: grid;
+  place-items: center;
+  pointer-events: none;
+}
+.overlay-content {
+  text-align: center;
+  width: 45rem;
+  max-width: calc(100vw - 40px);
+  font-size: 1.4rem;
+  line-height: 1.4;
+}
+.overlay-content a,
+.overlay-content button,
+.overlay-content input {
+  pointer-events: auto;
+}
+.overlay-content p {
+  margin-bottom: 24px;
+}
+.overlay-content input {
+  border: 1px solid #777;
+  border-radius: 30px;
+  background: transparent;
+  color: white;
+  padding: 14px 20px;
+  max-width: 100%;
+}
+.overlay-content form {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.overlay-content button {
+  border: 1px solid #777;
+  border-radius: 30px;
+  padding: 12px 20px;
+}
+.fallback {
+  position: fixed;
+  inset: 100px 20px;
+  z-index: 30;
+  overflow: auto;
+}
+.fallback a {
+  display: block;
+  padding: 16px;
+  border-bottom: 1px solid #444;
+}
+.loading-status {
+  position: fixed;
+  inset: 0;
+  z-index: 25;
+  display: grid;
+  place-items: center;
+  background: #000;
+}
+.project-panel {
+  pointer-events: auto;
+}
+.project-images {
+  overflow-y: auto;
+  max-height: calc(100svh - 110px);
+  scrollbar-width: none;
+}
+.project-images > div {
+  margin-bottom: 0;
+}
+.detail-copy {
+  z-index: 1;
+}
+.detail-copy p {
+  white-space: pre-line;
+}
+.project-actions {
+  position: fixed;
+  bottom: 36px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 45;
+  display: flex;
+  gap: 22px;
+  color: #000;
+}
+@media (max-width: 649px) {
+  .portfolio-nav {
+    inset: 24px 40px;
+  }
+  .project-images {
+    max-height: none;
+    overflow: visible;
+  }
+  .project-panel {
+    overflow-y: auto !important;
+  }
+  .detail-copy {
+    flex: none;
+  }
+  .project-actions {
+    bottom: 25px;
+    background: white;
+    padding: 8px 12px;
+    border-radius: 30px;
+  }
+}

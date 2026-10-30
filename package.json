@@ -1,0 +1,36 @@
+{
+  "name": "interactive-webgl-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predev": "node scripts/prepare-runtime.mjs",
+    "dev": "next dev",
+    "build": "node scripts/prepare-runtime.mjs && next build --webpack",
+    "start": "python3 scripts/serve-preview.py --directory out",
+    "lint": "eslint src/components src/hooks src/lib src/app --max-warnings 0",
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/check-ui.cjs",
+    "assets:verify": "node scripts/assets-r2.mjs verify",
+    "preview:package": "node scripts/preview-package.mjs",
+    "package:source": "node scripts/package-source.mjs"
+  },
+  "dependencies": {
+    "next": "^16.4.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^20",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.4.3",
+    "pixelmatch": "^7.2.0",
+    "pngjs": "^7.0.0",
+    "postcss": "^8",
+    "prettier": "^3.8.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
