@@ -201,29 +201,6 @@ export default function Portfolio({
                   responsible for front-end architecture, animation, interaction
                   and CMS, alongside international agencies and creative teams.
                 </p>
-                <p data-overlay-copy className="label opacity-60">
-                  77 awards — 30× Awwwards, 40× FWA, 3× Webby, 2× Lovie
-                </p>
-                <div className="flex justify-center gap-x-20 label">
-                  <a
-                    data-overlay-copy
-                    href="https://www.instagram.com/promptedsite/"
-                  >
-                    Instagram
-                  </a>
-                  <a data-overlay-copy href="https://x.com/promptedsite">
-                    X
-                  </a>
-                  <a
-                    data-overlay-copy
-                    href="https://www.linkedin.com/in/promptedsite-ba2984256/"
-                  >
-                    LinkedIn
-                  </a>
-                  <a data-overlay-copy href="mailto:hello@promptedsite.com">
-                    Email
-                  </a>
-                </div>
               </>
             ) : (
               <>

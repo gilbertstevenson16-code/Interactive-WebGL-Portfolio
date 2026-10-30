@@ -5,10 +5,10 @@ Work with the existing authorized Interactive WebGL Portfolio template. Your del
 ## Source
 
 Prefer the source ZIP attached to this product or conversation. Otherwise download:
-https://github.com/gilbertstevenson16-code/Interactive-WebGL-Portfolio/releases/download/template-v1.0.0/interactive-webgl-portfolio-source.zip
+https://github.com/gilbertstevenson16-code/Interactive-WebGL-Portfolio/releases/download/template-v1.0.1/interactive-webgl-portfolio-source.zip
 
 Repository: https://github.com/gilbertstevenson16-code/Interactive-WebGL-Portfolio.git
-Pinned tag: template-v1.0.0
+Pinned tag: template-v1.0.1
 
 Read AI_START_HERE.md, README.md, docs/validation.md and THIRD_PARTY.md. Do not infer that this is a completely rewritten TypeScript renderer: React/TypeScript owns the application; the attributed WebGL engine is retained JavaScript.
 
@@ -19,7 +19,7 @@ Local coding agent: run npm ci, npm run dev -- --hostname 127.0.0.1 --port 3150,
 Remote coding agent: run the application on a host/port supported by your platform and expose it using the platform's preview/port-forwarding tool. A localhost address inside your sandbox is not reachable by the user.
 
 Browser chat AI: create a real interactive Artifact/Preview attached to this conversation. Prefer the complete prebuilt portable preview:
-https://github.com/gilbertstevenson16-code/Interactive-WebGL-Portfolio/releases/download/template-v1.0.0/interactive-webgl-portfolio-preview.zip
+https://github.com/gilbertstevenson16-code/Interactive-WebGL-Portfolio/releases/download/template-v1.0.1/interactive-webgl-portfolio-preview.zip
 
 Download and extract it yourself, then register the complete directory with your platform's supported static-file or multi-file artifact host. Serve index.html, _next, engine, preview-media, and the exported route directories together from one HTTP origin. Preserve module scripts, WebGL2, font loading, and accompanying binary files. Do not merely attach the ZIP or describe a successful build.
 
